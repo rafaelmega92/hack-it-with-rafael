@@ -12,7 +12,7 @@ As I develop technical and strategic skills in areas like SOC operations, cyber 
 
 - 📄 Create short write-ups that reflect real-world scenarios and skill application
 
- -🤝 Connect with professionals and demonstrate readiness for cybersecurity roles
+- 🤝 Connect with professionals and demonstrate readiness for cybersecurity roles
 
 🧰 Tools & Technologies
 - TryHackMe | Wireshark | Kali Linux
@@ -44,7 +44,7 @@ Check the Commits or watch this space for:
 
 📬 Connect With Me
 Feel free to reach out, collaborate, or offer feedback!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rafaelmegjia92/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rafaelmega8337)
 
 - 📧 rafaelmejia92@gmail.com
 
