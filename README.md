@@ -44,7 +44,7 @@ Check the Commits or watch this space for:
 
 📬 Connect With Me
 Feel free to reach out, collaborate, or offer feedback!
-- 🔗 LinkedIn
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rafaelmegjia92/)
 
 - 📧 rafaelmejia92@gmail.com
 
