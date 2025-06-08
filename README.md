@@ -1,4 +1,5 @@
 🔐 Hack It With Rafael
+
 Welcome! This repository documents my hands-on journey into the world of cybersecurity as I work toward completing my MBA in Cybersecurity Risk Management at Florida International University (FIU).
 
 As I develop technical and strategic skills in areas like SOC operations, cyber risk management, and network defense, I’ll be sharing write-ups, walkthroughs, and mini-projects here to showcase my learning and growth.
