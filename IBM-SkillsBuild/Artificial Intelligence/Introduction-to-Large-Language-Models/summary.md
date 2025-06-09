@@ -53,5 +53,7 @@ Writing a good **prompt** is key to getting the results you want from an LLM. He
 That’s a wrap on Module 1! 🎉  
 LLMs are transforming how we interact with technology, making it more human, helpful, and intelligent. Looking forward to what the next module brings!
 
+#IBMSkillsBuild, #AI, #Developer
+
 
 
