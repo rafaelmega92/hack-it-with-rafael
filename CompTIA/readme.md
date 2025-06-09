@@ -5,3 +5,5 @@ My journey began with a Google-sponsored Cybersecurity course on Coursera. I enj
 I decided to take on the challenge. To prepare, I purchased a Udemy course and dedicated about two months to studying the material on my own. When I finally took the Security+ exam, I passed on my first attempt—all through self-study and determination.
 
 That success fueled my motivation to continue on the CompTIA certification path. My next goals are to earn the CySA+, PenTest+, and eventually the SecurityX certification (when available). I'm excited to continue growing in this field and sharing my progress here.
+
+![Image](https://github.com/user-attachments/assets/d4cf4344-2544-4912-8c1e-13b4b374ab9a)
