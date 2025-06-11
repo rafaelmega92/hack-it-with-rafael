@@ -1,0 +1,1 @@
+In this module, you learn about multiagent systems and how they differ from single-agent systems. You explore how agents interact and work together and discover the ways these systems solve complex problems across different industries. Through practical examples, you uncover the power of agents collaborating to create innovative solutions.
