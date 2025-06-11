@@ -1,0 +1,1 @@
+In this module, you’ll explore AI agents, how they perform tasks, and the different types of AI agents that exist. You’ll learn how to identify key use cases where AI agents improve efficiency and categorize them based on how they make decisions. Finally, you’ll learn how AI agents work and where they are making an impact today.
