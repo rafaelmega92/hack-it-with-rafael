@@ -106,3 +106,5 @@ An interactive IBM resource categorizing AI risks:
 
 ## 📚 Final Thoughts  
 Building ethical generative AI requires a holistic approach—one that values transparency, inclusivity, accountability, and ongoing oversight. Ethical AI is not a destination, but a continuous process.
+
+![Image](https://github.com/user-attachments/assets/68e9242b-8065-46d4-aa23-9387f988945e)
