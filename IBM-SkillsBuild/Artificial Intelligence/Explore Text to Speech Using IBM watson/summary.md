@@ -1,0 +1,1 @@
+This module introduces the fundamentals of text-to-speech (TTS) technology and the role of generative AI in developing these systems. Through a hands-on simulation using IBM watsonx, you’ll gain the skills needed to create and refine your own AI-powered voice synthesis model.
