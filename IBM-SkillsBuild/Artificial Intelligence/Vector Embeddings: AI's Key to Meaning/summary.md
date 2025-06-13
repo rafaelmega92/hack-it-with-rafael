@@ -58,4 +58,6 @@ Here’s how vector embeddings support this architecture:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/5ee5c44c-d825-428c-98d3-f66aff429b4f)
+
 📝 *This summary is based on my completion of the IBM SkillsBuild module: “Vector Embeddings: AI’s Key to Meaning.”*
