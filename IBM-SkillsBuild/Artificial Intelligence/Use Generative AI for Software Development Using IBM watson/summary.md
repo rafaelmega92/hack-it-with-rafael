@@ -1,0 +1,1 @@
+In this course, you’ll learn how AI can help you write new code, switch code between programming languages, and fix common coding issues. You’ll get a chance to practice using IBM watsonx in a simulation to generate code with the help of simple prompts.
