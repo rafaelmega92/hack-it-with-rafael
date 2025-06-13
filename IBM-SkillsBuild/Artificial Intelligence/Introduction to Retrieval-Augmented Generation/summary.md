@@ -1,0 +1,1 @@
+In this module, you’ll learn what RAG is and identify its key use cases. Next, you’ll explore the benefits of using RAG to enhance the knowledge base of an AI model. Finally, you’ll find out the key steps in the RAG workflow.
