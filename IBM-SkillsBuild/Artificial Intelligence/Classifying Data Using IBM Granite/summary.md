@@ -1,0 +1,1 @@
+In this module, you’ll explore the role of generative artificial intelligence in simplifying tasks involving classifying data. You’ll identify methods for selecting an IBM Granite model for classifying text-based data and examine various prompts to use within these models.
