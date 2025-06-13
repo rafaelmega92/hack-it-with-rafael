@@ -1,0 +1,1 @@
+In this module, you’ll explore the role of generative AI in text-based data summarization. Next, you’ll learn about various IBM Granite models for text summarization and how you can choose the right model for your needs. Finally, you’ll explore how to prompt IBM Granite models to summarize text.
