@@ -47,6 +47,6 @@ Check the Commits or watch this space for:
 Feel free to reach out, collaborate, or offer feedback!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rafaelmega8337)
 
-- 📧 rafaelmejia92@gmail.com
+- 📧 rafaelmega92@gmail.com
 
 - 🌍 Based in Miami, FL | Open to remote cybersecurity opportunities
