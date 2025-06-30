@@ -1,47 +1,48 @@
-# Business Impact Analysis – Mock Assignment
+# Security Risk Management and Organizational Cyber Resilience  
 
-This document is a mock Business Impact Analysis (BIA) I completed as part of a graduate-level cybersecurity risk management course. It evaluates key business functions, operational impacts, and risk areas for a fictional cloud services company, and outlines recommendations to support a future business continuity plan.
+## 📌 Course Overview  
+This course explores the **principles of risk management for cybersecurity** and provides a balanced, integrated approach that combines academic foundations with real-world applications.  
+Students examine tools and mechanisms to assess, control, and transfer cybersecurity risks within organizations, while also building a deep understanding of **organizational cyber resilience**.  
 
----
-
-## 🏢 Project Background
-
-**Company Name:** SummitTech Solutions (fictional)  
-**Industry:** IT & Cloud Services  
-**Headquarters:** Seattle, Washington  
-**Employees:** 2,500  
-**Annual Revenue:** $750 million  
-
-### Core Services:
-- Cloud computing and data storage solutions  
-- IT infrastructure management  
-- Cybersecurity consulting  
-- SaaS-based enterprise software
-
-### Technology Infrastructure:
-- Two primary data centers (Seattle, WA & Denver, CO)  
-- 75% of employees working remotely  
-- Mission-critical platforms: CRM, ERP, and cloud collaboration tools  
-- Client base includes Fortune 500 companies and government agencies
-
-### Project Goal:
-To analyze the potential **financial**, **operational**, and **reputational** impact of disruptions across critical business functions. This BIA will inform a broader Risk Assessment & Threat Analysis and support the development of a Business Continuity Plan (BCP) for SummitTech Solutions.
+The course prepares students to address key issues, challenges, and trends in security risk management, while aligning cybersecurity strategies with business goals, governance, and technology trends.
 
 ---
 
-## 🧠 What I Learned
+## 🎯 Course Objectives  
 
-Working on this BIA assignment helped me develop a real-world perspective on the intersection of business operations and cybersecurity risk. I gained experience in:
+By completing this course, students will:  
 
-- Mapping out critical business functions within a large IT organization  
-- Evaluating dependencies like personnel, systems, and external vendors  
-- Defining RTO (Recovery Time Objective), RPO (Recovery Point Objective), and MTD (Maximum Tolerable Downtime)  
-- Calculating the potential cost of operational disruptions in a cloud services environment  
-- Analyzing how regulatory penalties and reputational damage affect business resilience  
-- Structuring a formal BIA report to communicate technical risks in business language
-
-This project helped me understand the importance of **risk-based planning** and the need for cross-functional coordination between IT, security, and business units — lessons I’ll continue building on as I pursue cybersecurity roles in GRC and risk management.
+- Understand the **principles of risk management for cybersecurity**  
+- Examine **tools and mechanisms** for assessing, controlling, and transferring cybersecurity risk in organizations  
+- Comprehend **strategies for risk identification, risk assessment, and control**  
+- Develop familiarity with **organizational cyber resilience**, including:
+  - Incident response  
+  - Disaster recovery planning  
+  - Business continuity planning  
 
 ---
 
-📂 You can find the full BIA document in this folder.
+## 📌 Key Topics  
+
+- Risk identification, assessment, control, and management strategies  
+- Organizational security risk strategy, processes, and technologies  
+- Impact of macro technology trends on security risk management  
+- Planning and managing IS implementation projects and business changes  
+- Key technologies supporting security risk management  
+- Security risk management strategic planning, architecture, and business alignment  
+- Application software acquisition considerations  
+- Governance of security risk management  
+- Achieving business value through security risk management  
+- Security risk management standards  
+
+---
+
+## ⚡ Course Purpose  
+
+This course is designed to equip students with the knowledge and practical skills to:  
+
+- Map organizational security risk strategies to processes and technologies  
+- Plan for and manage the implementation of information security projects  
+- Align security risk management initiatives with business goals and architecture  
+- Strengthen organizational resilience through effective risk governance, disaster recovery, and business continuity planning  
+- Stay ahead of emerging trends and challenges in the field of cybersecurity risk management  
