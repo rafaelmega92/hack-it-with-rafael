@@ -22,8 +22,3 @@ Each subfolder in this repository will correspond to a specific TryHackMe room o
 
 ## Disclaimer
 All activities are conducted in legal, controlled environments as part of educational exercises on TryHackMe.
-
-## Connect
-Feel free to connect with me:
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
