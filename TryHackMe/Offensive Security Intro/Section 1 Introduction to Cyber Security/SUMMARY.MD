@@ -1,6 +1,6 @@
-# TryHackMe: Offensive Security Intro - Notes
+# TryHackMe: Introduction to Cybersecurity - Notes
 
-This document summarizes my learning from the **Offensive Security Intro** module on [TryHackMe](https://tryhackme.com/). The room provides foundational knowledge about offensive and defensive security concepts, tools, and roles in cybersecurity.
+This document summarizes my learning from the **Introduction to Cybersecurity** module on [TryHackMe](https://tryhackme.com/). The room provides foundational knowledge about offensive and defensive security concepts, tools, and roles in cybersecurity.
 
 ---
 
