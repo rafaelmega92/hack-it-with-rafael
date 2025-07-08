@@ -1,10 +1,10 @@
-# TryHackMe: Introduction to Cybersecurity - Notes
+# 🔐 TryHackMe: Introduction to Cybersecurity - Notes
 
 This document summarizes my learning from the **Introduction to Cybersecurity** module on [TryHackMe](https://tryhackme.com/). The room provides foundational knowledge about offensive and defensive security concepts, tools, and roles in cybersecurity.
 
 ---
 
-## Introduction to Offensive Security
+## 💣 Introduction to Offensive Security
 
 - Offensive security focuses on **breaking into computer systems**, exploiting software bugs, and finding loopholes in applications to gain unauthorized access.
 - The goal is to understand hacker tactics and improve system defenses.
@@ -13,7 +13,7 @@ This document summarizes my learning from the **Introduction to Cybersecurity** 
 
 ---
 
-## Introduction to Defensive Security
+## 🛡️ Introduction to Defensive Security
 
 - Defensive security focuses on:
   - Preventing intrusions.
@@ -29,9 +29,9 @@ This document summarizes my learning from the **Introduction to Cybersecurity** 
 
 ---
 
-## Areas of Defensive Security
+## 🧩 Areas of Defensive Security
 
-### Security Operations Center (SOC)
+### 🏢 Security Operations Center (SOC)
 - Monitors systems and networks for malicious activity.
 - Responds to:
   - Vulnerabilities.
@@ -40,16 +40,16 @@ This document summarizes my learning from the **Introduction to Cybersecurity** 
   - Network intrusions.
 - Uses **threat intelligence** to build threat-informed defenses.
 
-### Digital Forensics and Incident Response (DFIR)
+### 🔍 Digital Forensics and Incident Response (DFIR)
 
-#### Digital Forensics
+#### 🧪 Digital Forensics
 - Analyzes evidence of attacks or other malicious activities.
 - Focus areas:
   - File system artifacts.
   - System memory images.
   - System and network logs.
 
-#### Incident Response
+#### 🚨 Incident Response
 - Methodology to handle incidents, reduce damage, and recover quickly.
 - Four major phases:
   1. **Preparation**
@@ -57,7 +57,7 @@ This document summarizes my learning from the **Introduction to Cybersecurity** 
   3. **Containment, Eradication & Recovery**
   4. **Post-Incident Activity**
 
-#### Malware Analysis
+#### 🦠 Malware Analysis
 - Understands and studies malicious software (e.g., viruses, trojans, ransomware).
 - Techniques:
   - **Static analysis**: Examine code without executing it.
@@ -65,7 +65,7 @@ This document summarizes my learning from the **Introduction to Cybersecurity** 
 
 ---
 
-## Careers in Cybersecurity
+## 👨‍💻 Careers in Cybersecurity
 
 - Security Analyst
 - Security Engineer
@@ -77,6 +77,6 @@ This document summarizes my learning from the **Introduction to Cybersecurity** 
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 All activities documented here are conducted in legal, controlled environments for educational purposes only.
