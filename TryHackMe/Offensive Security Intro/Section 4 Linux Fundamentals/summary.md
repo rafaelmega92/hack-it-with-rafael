@@ -102,4 +102,4 @@ This section covers the foundational aspects of the Linux operating system inclu
 - Add repos:
 - `add-apt-repository`
 - Example: Add Sublime Text repo:
-```bash
+  'add-apt-repository --remove ppa:PPA_Name/ppa'
