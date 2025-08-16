@@ -63,6 +63,7 @@ This section introduces **Microsoft Active Directory (AD)** and its role in mana
   <img width="1047" height="416" alt="Image" src="https://github.com/user-attachments/assets/a92fe224-982b-49cf-a86a-5e431b75ea88" />
   <img width="1049" height="486" alt="Image" src="https://github.com/user-attachments/assets/d555a98f-2d78-4846-9d34-d5a9b9e39abb" />
   <img width="1029" height="362" alt="Image" src="https://github.com/user-attachments/assets/85271cb9-5bd8-4602-acc1-c71dc1d2dd56" />
+  
   - **NetNTLM (Legacy)** – Challenge-response protocol for compatibility.
   <img width="1051" height="605" alt="Image" src="https://github.com/user-attachments/assets/2eb3cdd8-c6db-4f8d-b351-dfd3ea076cde" />
 
