@@ -1,4 +1,5 @@
 # 🧠 Classifying Data Using IBM Granite
+Authored by Rafael Mejia Galvan
 
 Classifying data means organizing information into categories to uncover insights and trends. With the power of **Generative AI** and **IBM Granite models**, text classification becomes faster, more scalable, and more accurate.
 
