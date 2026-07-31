@@ -1,4 +1,5 @@
 # 🌐 TryHackMe: How the Web Works - Notes
+Authored by Rafael Mejia Galvan
 
 This document summarizes the key concepts from the **"How the Web Works"** section of the TryHackMe module. Topics include DNS, HTTP, websites, web servers, and modern web infrastructure.
 
