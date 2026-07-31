@@ -1,4 +1,5 @@
 # 🧠 Unleashing the Power of AI Agents – IBM SkillsBuild
+Authored by Rafael Mejia Galvan
 
 ## 📘 Overview
 This module explains the transition from **monolithic AI models** to **compound AI systems**, emphasizing how **AI agents** autonomously complete tasks by reasoning, acting, and learning—far beyond what traditional AI can do with fixed rules or limited training data.
