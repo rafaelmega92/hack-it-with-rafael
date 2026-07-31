@@ -1,4 +1,5 @@
 # 🔐 TryHackMe — Section 5: Cryptography
+Authored by Rafael Mejia Galvan
 
 ## 🔎 Overview
 This section covers **how we secure data**: encryption (symmetric & asymmetric), **public-key crypto** (RSA, Diffie-Hellman, SSH, certificates), **hashing** (integrity, passwords, HMAC), and hands-on **password cracking** with **John the Ripper**.
