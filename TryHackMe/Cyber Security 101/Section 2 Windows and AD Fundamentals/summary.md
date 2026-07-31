@@ -1,4 +1,5 @@
 # 🪟 Section 2: Windows and AD Fundamentals  
+Authored by Rafael Mejia Galvan
 
 This section introduces **Microsoft Active Directory (AD)** and its role in managing devices, users, policies, and authentication within corporate environments. AD is the backbone of Windows-based enterprise networks, enabling centralized management and enhanced security.  
 
