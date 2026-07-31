@@ -1,4 +1,5 @@
 # 🧠 Introduction to Large Language Models (LLMs)
+Authored by Rafael Mejia Galvan
 
 Imagine trying to talk to a machine that doesn’t speak your language. That’s where **Large Language Models (LLMs)** come in — they bridge that gap and help computers understand and respond like humans do. Think of LLMs as a user-friendly interface between you and a powerful machine, much like a graphical interface (GUI) makes software easier to use.
 
