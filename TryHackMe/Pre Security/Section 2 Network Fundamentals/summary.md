@@ -1,4 +1,5 @@
 # TryHackMe: Network Fundamentals - Notes
+Authored by Rafael Mejia Galvan
 
 This document summarizes my learning from the **Network Fundamentals** module on [TryHackMe](https://tryhackme.com/). This room covers key networking principles including topologies, protocols, OSI layers, IP addressing, packet structure, and security technologies.
 
