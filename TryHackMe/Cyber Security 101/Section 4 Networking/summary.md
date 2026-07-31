@@ -1,4 +1,5 @@
 # 🌐 TryHackMe — Section 4: Networking
+Authored by Rafael Mejia Galvan
 
 ## 🔎 Overview
 This section explores how data moves across networks — from physical media and MAC addressing up through IP routing, transport protocols (UDP/TCP), application protocols (HTTP, DNS, email), and their secure counterparts (TLS/SSH/VPN). It also covers analyst tooling: **Wireshark**, **tcpdump**, and **Nmap**.
