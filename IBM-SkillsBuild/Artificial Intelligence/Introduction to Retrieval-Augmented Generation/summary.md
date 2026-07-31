@@ -1,4 +1,5 @@
 # 🔎 Introduction to Retrieval Augmented Generation (RAG)
+Authored by Rafael Mejia Galvan
 
 **Retrieval Augmented Generation (RAG)** is a powerful architecture that supercharges large language models (LLMs) by allowing them to access external, up-to-date knowledge bases. Instead of relying only on their training data, RAG-enabled models **retrieve live information** to generate more accurate, relevant, and trustworthy responses.
 
