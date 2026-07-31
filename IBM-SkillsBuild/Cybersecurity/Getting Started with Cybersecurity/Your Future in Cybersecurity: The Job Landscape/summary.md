@@ -1,4 +1,5 @@
 # 💼 IBM SkillsBuild: Your Future in Cybersecurity - Summary
+Authored by Rafael Mejia Galvan
 
 This document summarizes the IBM SkillsBuild course **"Your Future in Cybersecurity: The Job Landscape"**, which outlines the growing demand for cybersecurity professionals, common roles in the field, and the skills employers are seeking.
 
