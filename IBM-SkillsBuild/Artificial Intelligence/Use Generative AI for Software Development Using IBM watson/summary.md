@@ -1,4 +1,5 @@
 # 💻 Use Generative AI for Software Development
+Authored by Rafael Mejia Galvan
 
 This module explores how generative AI can support software development by generating, translating, and refining code. While AI accelerates the development process and reduces barriers for beginners, it should complement—not replace—human learning and judgment.
 
