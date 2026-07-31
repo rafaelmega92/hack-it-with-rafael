@@ -1,4 +1,5 @@
 # 🛡️ IBM SkillsBuild: Getting Started with Cybersecurity - Summary
+Authored by Rafael Mejia Galvan
 
 This document summarizes key concepts from the IBM SkillsBuild course **"Getting Started with Cybersecurity."** The course covers the basics of cybersecurity, data privacy, and information security using the CIA triad.
 
