@@ -1,4 +1,5 @@
 # 🧠 Vector Embeddings: AI’s Key to Meaning
+Authored by Rafael Mejia Galvan
 
 Have you ever searched for something online and gotten totally irrelevant results? 🤔 That’s often because traditional AI relies on **keyword matching** — it looks for *exact* words rather than understanding what you really meant. That’s where **vector embeddings** come in.
 
