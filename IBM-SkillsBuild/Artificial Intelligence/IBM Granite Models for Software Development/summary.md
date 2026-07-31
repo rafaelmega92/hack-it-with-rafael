@@ -1,4 +1,5 @@
 # 💻 IBM Granite Models for Software Development
+Authored by Rafael Mejia Galvan
 
 **Code generation** is the process of automatically producing source code from templates, models, or instructions. IBM Granite models are at the forefront of this shift — empowering developers to code **faster**, **smarter**, and **more efficiently**.
 
