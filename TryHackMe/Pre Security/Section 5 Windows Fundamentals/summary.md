@@ -1,4 +1,5 @@
 # 🪟 TryHackMe: Windows Fundamentals - Summary
+Authored by Rafael Mejia Galvan
 
 This summary includes notes from the **Windows Fundamentals** module from [TryHackMe](https://tryhackme.com/). The module provides essential knowledge about using and managing Windows operating systems, from basic navigation to system administration tools.
 
