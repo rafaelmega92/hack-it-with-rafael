@@ -1,4 +1,5 @@
 # Ethical Considerations for Generative AI  
+Authored by Rafael Mejia Galvan
 *Based on IBM SkillsBuild Module*
 
 ## 📌 Overview  
