@@ -1,4 +1,5 @@
 # 🗣️ Explore Text-to-Speech Using IBM watsonx
+Authored by Rafael Mejia Galvan
 
 **Text-to-Speech (TTS)** is the technology that transforms **written text into spoken words**. Powered primarily by **Natural Language Processing (NLP)**, modern TTS systems aim to create **natural, expressive, and human-like digital voices**.
 
