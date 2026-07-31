@@ -1,4 +1,5 @@
 # 📄 Summarizing Data Using IBM Granite
+Authored by Rafael Mejia Galvan
 
 This module explores the use of IBM Granite large language models (LLMs) to perform **automatic text summarization**, a generative AI technique used to condense content from one or more documents into a concise summary without losing key information.
 
