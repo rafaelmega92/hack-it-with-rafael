@@ -1,4 +1,5 @@
 # 🛡️ IBM SkillsBuild: Getting Started with Threat Intelligence and Hunting
+Authored by Rafael Mejia Galvan
 
 This course explores the foundations of threat intelligence, proactive threat hunting, and global cyberattack monitoring. It covers cyber threats, enterprise vulnerabilities, hunting methodologies, and using IBM's X-Force Exchange to track real-time attacks.
 
