@@ -1,4 +1,5 @@
 # 🐧 TryHackMe: Linux Fundamentals - Summary
+Authored by Rafael Mejia Galvan
 
 This section covers the foundational aspects of the Linux operating system including terminal commands, file systems, user management, processes, automation, and system maintenance.
 
