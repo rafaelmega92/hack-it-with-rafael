@@ -1,4 +1,5 @@
 # 🧠 The Rise of Multiagent Systems
+Authored by Rafael Mejia Galvan
 
 Multiagent Systems (MAS) are the next big step in AI — moving beyond one model doing everything, to **multiple AI agents** working *together* to solve problems faster, smarter, and with more flexibility. 💡🤝
 
