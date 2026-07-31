@@ -1,5 +1,5 @@
 # 🤖 Build Your First Chatbot
-# Authored by Rafael Mejia Galvan
+Authored by Rafael Mejia Galvan
 
 This module introduces the fundamentals of building chatbots using artificial intelligence and natural language processing (NLP). You'll explore the key components of chatbots, understand how they interpret and respond to human input, and learn the differences between rule-based and AI-enabled bots.
 
