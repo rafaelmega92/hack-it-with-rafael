@@ -1,4 +1,5 @@
 # 🚀 Section 1: Start Your Cyber Security Journey  
+Authored by Rafael Mejia Galvan
 
 This section introduces the foundations of **search skills and information gathering**—critical abilities for anyone starting in cybersecurity. It covers how to evaluate sources, use search engines effectively, leverage specialized tools, and access reliable documentation.  
 
